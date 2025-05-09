@@ -5,3 +5,7 @@ Generative AI is a revolutionary branch of artificial intelligence that enables 
 Quarter 04_Learning - Task_02 
 🚀 FastAPI Project with UV
 Today I successfully ran my first FastAPI "Hello World" project using Uvicorn (UV)! With just a few lines of Python code, I created an API that responds with {"Hello": "World"} and supports dynamic routing like /items/{item_id}. FastAPI also provides a built-in /docs page to test your API in real-time. It’s fast, simple, and great for learning backend development. Highly recommended for Python developers!
+
+Quarter 04_Learning - Task_03
+🚀 Building FastAPI Chatbot with Complex Pydantic Models! 🧠🤖
+This project demonstrates the integration of Pydantic with FastAPI to build a robust, type-safe chatbot API, ideal for agentic workflows like DACA. Pydantic ensures strict data validation and automatic error handling, which is essential for managing user messages, session metadata, and structured responses. The project includes examples of basic models, nested structures, and custom validators, culminating in a production-ready API for chatbot interactions with proper request/response schemas. Explore /docs to interact with the API and understand the data flow.
