@@ -27,8 +27,30 @@ Feature	Description
 /items/validated/{item_id}	Updates item using Path, Query, and Body data
 /items/{item_id} with X-Custom-Header	Demonstrates how to receive Header values
 
+## 📦 Features
+
+| Endpoint | Method | Description |
+|----------|--------|-------------|
+| `/` | GET | Homepage with a welcome message |
+| `/users/{user_id}` | GET | Uses Path Parameters with validation |
+| `/courses/` | GET | Uses Query Parameters: topic, skip, limit |
+| `/items/validated/{item_id}` | PUT | Combines Path, Query, and Body parameters |
+| `/items/{item_id}` | GET | Uses Path and custom Header parameter (`X-Custom-Header`) |
+
+---
+
+## 📥 Input Types Demonstrated
+
+- **Path Parameters**: `/users/{user_id}`
+- **Query Parameters**: `/courses?topic=Python&limit=5`
+- **Request Body**: JSON data with item info
+- **Headers**: `X-Custom-Header` in `/items/{item_id}`
+
+
 🔧 How to Run the Project
 # 1. Install dependencies
 pip install fastapi uvicorn pydantic
 # 2. Run the server
 uvicorn main:app --reload
+
+
