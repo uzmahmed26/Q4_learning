@@ -12,3 +12,9 @@ This project demonstrates the integration of Pydantic with FastAPI to build a ro
 
 Quarter 04_Learning - Task_04
 🚀 FastAPI Item Management API is a beginner-friendly project developed using FastAPI, showcasing how to use Path, Query, Body, and Header parameters. It helps users learn how to build high-performance APIs with built-in validation, automatic documentation (Swagger & ReDoc), and clean code structure. This mini-project is perfect for those starting with modern Python web development.
+
+Quarter 04_Learning - Task_05
+🚀 Learning FastAPI – Dependency Injection (Step 4)
+Today I explored Dependency Injection in FastAPI! 🔄 It helps make code reusable, clean, and testable by sharing common logic like login checks, query filters, or fetching data. I practiced with examples using functions, query parameters, and even class-based dependencies (404 error simulation). FastAPI makes it super simple and powerful! 💡
+📂 Project: fastapi_di_project
+🧠 Topics Covered: Simple DI, Query Login, Multiple Dependencies, Class Injection.
