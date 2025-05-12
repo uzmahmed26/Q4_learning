@@ -1,0 +1,2 @@
+📘 README:
+This project demonstrates the integration of Pydantic with FastAPI to build a robust, type-safe chatbot API, ideal for agentic workflows like DACA. Pydantic ensures strict data validation and automatic error handling, which is essential for managing user messages, session metadata, and structured responses. The project includes examples of basic models, nested structures, and custom validators, culminating in a production-ready API for chatbot interactions with proper request/response schemas. Explore /docs to interact with the API and understand the data flow.
