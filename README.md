@@ -19,7 +19,7 @@ Today I explored Dependency Injection in FastAPI! 🔄 It helps make code reusab
 📂 Project: fastapi_di_project
 🧠 Topics Covered: Simple DI, Query Login, Multiple Dependencies, Class Injection.
 
-Quarter 04_Learning - Task_05
+Quarter 04_Learning - Task_06
 # 🚀 Task  Tracker API
 
 A FastAPI-based project that allows you to manage **Users** and their **Tasks** efficiently using modern Python backend practices like Pydantic validation and clean RESTful endpoints.
